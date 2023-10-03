@@ -1,2 +1,2 @@
 # CodeAlpha_QuizApplication
-##djkjdfaj
+## It generates 3 random Quiz Questions 
